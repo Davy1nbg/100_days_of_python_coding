@@ -2,7 +2,7 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp. 
 # https://www.udemy.com/course/100-days-of-code
 
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 1 - Working with Variables in Python to Manage Data 
 
 print("Welcome to the BNG (Band Name Generator")
 city = input("In which city did you grow up?\n>>")
